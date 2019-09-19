@@ -6,8 +6,8 @@ Here, I'll explain the environment construction from initialization of npm to di
 
 Create working dir and init your project.
 ```bash
-mkdir react-webpack
-cd react-webpack
+mkdir react-webpack
+cd react-webpack
 ## some question will occur for init your project. Its' okay to retuen all.
 npm init
 ```
